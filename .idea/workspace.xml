@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="86ed36a6-f225-42be-8f8f-bf35b1b851a8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpDebugGeneral" listening_started="true" show_pre_config_in_web_page="false" />
+  <component name="PhpServers">
+    <servers>
+      <server host="localhost" id="139b86a8-4654-47ab-a6b7-187855ca4072" name="tech" />
+    </servers>
+  </component>
+  <component name="ProjectId" id="1qnSQlyjhRTpHaxDNpHA0t0dLfv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../tech - Copie" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="tech" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" browser="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" server_name="tech" start_url="localhost/tech/index.php">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="86ed36a6-f225-42be-8f8f-bf35b1b851a8" name="Default Changelist" comment="" />
+      <created>1617713846180</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617713846180</updated>
+      <workItem from="1617713847237" duration="6083000" />
+      <workItem from="1617725152401" duration="78000" />
+      <workItem from="1617725232346" duration="2538000" />
+      <workItem from="1617728582096" duration="4266000" />
+      <workItem from="1617872669194" duration="934000" />
+      <workItem from="1618163668823" duration="729000" />
+      <workItem from="1618221469671" duration="9836000" />
+      <workItem from="1619177438759" duration="350000" />
+      <workItem from="1619201605323" duration="1979000" />
+      <workItem from="1619439396265" duration="2825000" />
+      <workItem from="1619471484065" duration="3357000" />
+      <workItem from="1619511541939" duration="6831000" />
+      <workItem from="1619521267045" duration="1726000" />
+      <workItem from="1619525356472" duration="2794000" />
+      <workItem from="1619646145561" duration="295000" />
+      <workItem from="1619810491361" duration="190000" />
+      <workItem from="1619865285305" duration="5787000" />
+      <workItem from="1619971419442" duration="1497000" />
+      <workItem from="1619972980909" duration="365000" />
+      <workItem from="1619979715938" duration="107000" />
+      <workItem from="1620001040190" duration="887000" />
+      <workItem from="1620043745717" duration="4270000" />
+      <workItem from="1620648587552" duration="1044000" />
+      <workItem from="1621537940058" duration="891000" />
+      <workItem from="1622297482912" duration="1360000" />
+      <workItem from="1622299288919" duration="966000" />
+      <workItem from="1622300773144" duration="5885000" />
+      <workItem from="1622464587624" duration="2956000" />
+      <workItem from="1622468403995" duration="629000" />
+      <workItem from="1622481973330" duration="12757000" />
+      <workItem from="1622553014028" duration="3547000" />
+      <workItem from="1622683418069" duration="2715000" />
+      <workItem from="1622913363312" duration="1946000" />
+      <workItem from="1623008931619" duration="3204000" />
+      <workItem from="1623040075104" duration="10255000" />
+      <workItem from="1623062725919" duration="372000" />
+      <workItem from="1623064653796" duration="6000" />
+      <workItem from="1623071481242" duration="10816000" />
+      <workItem from="1638056514742" duration="73000" />
+      <workItem from="1638737168788" duration="602000" />
+      <workItem from="1638745198701" duration="117000" />
+      <workItem from="1639392114507" duration="666000" />
+      <workItem from="1639393293056" duration="805000" />
+      <workItem from="1639402646748" duration="2809000" />
+      <workItem from="1639740735166" duration="74000" />
+      <workItem from="1648555920861" duration="55000" />
+      <workItem from="1652039534773" duration="3095000" />
+      <workItem from="1662968598842" duration="150000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
